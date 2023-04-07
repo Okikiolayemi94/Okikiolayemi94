@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Okikiolayemi94
-- 👀 I’m interested in c# .NET, HTML, CSS and Javascript 
-- 🌱 I’m currently learning C#,HTML,CSS, Javascript and BootStrap
-- 💞️ I’m looking to collaborate on Web and Mobile Software development
+- 🌱 C# and Golang Dev.
+- 💞️ I’m looking to collaborate on Software development
 - 📫 You can reach me via: akangbeolayemi@gmail.com and +2348131181106
 
 <!---
